@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React-Static - Ant Design with Less
 
 > Ant Design is a [React UI Component Library](https://github.com/ant-design/ant-design) written in Typescript & Less. 
@@ -33,3 +34,6 @@ added later)
 
 To get started, run `react-static create` and use the `less-antdesign` 
 template.
+=======
+# howard
+>>>>>>> 6c57e6db4877df1d59d769dcd3ed9f7bf9cc511d
